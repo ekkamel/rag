@@ -1,0 +1,17 @@
+Tutorial available on realPython
+
+Title:          Build an LLM RAG Chatbot With LangChain
+By:             Harrison Hoffman
+Published:      Mar 06, 2024
+URL:            https://realpython.com/build-llm-rag-chatbot-with-langchain/
+
+Pre-requisites: langchain==0.1.0 
+                openai==1.7.2 
+                langchain-openai==0.0.2                 
+                langchain-community==0.0.12 
+                langchainhub==0.1.14
+                python-dotenv
+
+Data source:    https://github.com/hfhoffman1144/langchain_neo4j_rag_app/blob/main/data/reviews.csv
+
+Powered by: OpenAI Nordtec account
