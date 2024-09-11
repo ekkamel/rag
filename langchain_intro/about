@@ -11,6 +11,7 @@ Pre-requisites: langchain==0.1.0
                 langchain-community==0.0.12 
                 langchainhub==0.1.14
                 python-dotenv
+                chromadb==0.4.22
 
 Data source:    https://github.com/hfhoffman1144/langchain_neo4j_rag_app/blob/main/data/reviews.csv
 
